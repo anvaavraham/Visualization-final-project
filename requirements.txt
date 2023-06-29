@@ -1,0 +1,6 @@
+plotly
+matplotlib==3.5
+pandas
+numpy
+seaborn
+streamlit
